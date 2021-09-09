@@ -1,0 +1,12 @@
+Git Bash Commands
+
+1)ctrl+l => to clear screen
+for commiting 
+
+1)use git init => it will initialize a git repository
+2)use git add filename => it will add files to staging area
+3)use git commit -m "/Put a message" => it will commit the files
+
+use git add .  =>add all files to staging area
+use git status =>show the status of the files 
+use git log => shows the commited files with message
