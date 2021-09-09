@@ -10,3 +10,5 @@ for commiting
 use git add .  =>add all files to staging area
 use git status =>show the status of the files 
 use git log => shows the commited files with message
+
+final git command => git push -u origin master
