@@ -12,3 +12,4 @@ use git status =>show the status of the files
 use git log => shows the commited files with message
 
 final git command => git push -u origin master
+for creating a new branch => git branch "branch name"
