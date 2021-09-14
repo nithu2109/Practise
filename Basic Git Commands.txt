@@ -1,5 +1,7 @@
 Git Bash Commands
 
+Some Useful Commands
+
 1)ctrl+l => to clear screen
 for commiting 
 
